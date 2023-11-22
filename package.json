@@ -1,7 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
+<<<<<<< HEAD
   "homepage": "https://jonathanhzhang.com/",
+=======
+  "homepage": "http://jonathanhzhang.com/",
+>>>>>>> 75998095c0f1eb665a74bca6bfe8e6b29b0cc13b
   "license": "MIT",
   "repository": {
     "type": "git",
