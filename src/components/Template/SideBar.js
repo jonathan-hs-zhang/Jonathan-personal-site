@@ -9,21 +9,17 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/me.jpeg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
+        <h2>Haosen Zhang</h2>
         <p><a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
-        and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
-        I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
-        , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
-        {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
+      <p>Greetings! I&apos;m Haosen Zhang, or as I preferred to be called, Jonathan. I&apos;m a 2023 graduate holding a Bachelor&apos;s degree in <a href="https://ece.ubc.ca/">Electrical Engineering from the esteemed University of British Columbia</a>. As I step into the realm of professional engineering, I&apos;m thrilled to share my journey, skills, and aspirations with you.
       </p>
       <ul className="actions">
         <li>
