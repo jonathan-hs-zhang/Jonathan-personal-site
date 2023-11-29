@@ -5,17 +5,14 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Jonathan Zhang's personal website. Electrical Engineer UBC trained , "
-    + 'VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni.'}
+    description={"Jonathan Zhang's personal website. Electrical Engineer UBC trained "}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
           <h2><Link to="/">About this site</Link></h2>
-          <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
-          </p>
+          <p> Haosen Jonathan Zhang&apos;s personal website. Electrical Engineer UBC trained.</p>
+          <p> Template Source code forked from  <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
         </div>
       </header>
       <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,

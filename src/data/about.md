@@ -1,7 +1,7 @@
 # Intro
 
 
-I just graduated from UBC ECE department April 2023 and currently still looking for electrical engineering job oppurtunities. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
+I'm a 2023 graduate holding a Bachelor's degree in Electrical Engineering from the University of British Columbia. If you think I can be helpful to you or your cause and would like to meet, please feel free to get in touch.
 
 # Some history
 

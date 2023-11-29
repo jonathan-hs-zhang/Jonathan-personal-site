@@ -13,13 +13,13 @@ const SideBar = () => (
       </Link>
       <header>
         <h2>Haosen Zhang</h2>
-        <p><a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a></p>
+        <p><a href="mailto:zhanghaosen328@gmail.com">zhanghaosen328@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Greetings! I&apos;m Haosen Zhang, or as I preferred to be called, Jonathan. I&apos;m a 2023 graduate holding a Bachelor&apos;s degree in <a href="https://ece.ubc.ca/">Electrical Engineering from the esteemed University of British Columbia</a>. As I step into the realm of professional engineering, I&apos;m thrilled to share my journey, skills, and aspirations with you.
+      <p>Greetings! I&apos;m Haosen Zhang, or Jonathan Zhang as I preferred. I&apos;m a 2023 graduate holding a Bachelor&apos;s degree in <a href="https://ece.ubc.ca/">Electrical Engineering from the esteemed University of British Columbia</a>. I&apos;m thrilled to use this page to record my journey, skills, and aspirations when stepping into the area of a professional engieer as a new graduate.
       </p>
       <ul className="actions">
         <li>
