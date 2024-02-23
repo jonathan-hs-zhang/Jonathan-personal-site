@@ -25,6 +25,7 @@ Experience.propTypes = {
     url: PropTypes.string,
     startDate: PropTypes.string,
     endDate: PropTypes.string,
+    image: PropTypes.string.isRequired,
     highlights: PropTypes.arrayOf(PropTypes.string),
     summary: PropTypes.string,
   })),

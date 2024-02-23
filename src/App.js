@@ -8,13 +8,16 @@ const { PUBLIC_URL } = process.env;
 // Every route - we lazy load so that each page can be chunked
 // NOTE that some of these chunks are very small. We should optimize
 // which pages are lazy loaded in the future.
+
 const About = lazy(() => import('./pages/About'));
 const Contact = lazy(() => import('./pages/Contact'));
 const Index = lazy(() => import('./pages/Index'));
 const NotFound = lazy(() => import('./pages/NotFound'));
-const Projects = lazy(() => import('./pages/Projects'));
+// const Projects = lazy(() => import('./pages/Projects'));
 const Resume = lazy(() => import('./pages/Resume'));
+const Life = lazy(() => import('./pages/Life'));
 const Stats = lazy(() => import('./pages/Stats'));
+const MURC = lazy(() => import('./pages/murc_pr'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -22,10 +25,11 @@ const App = () => (
       <Routes>
         <Route path="/" element={<Index />} />
         <Route path="/about" element={<About />} />
-        <Route path="/projects" element={<Projects />} />
         <Route path="/stats" element={<Stats />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/resume" element={<Resume />} />
+        <Route path="/murc_pr" element={<MURC />} />
+        <Route path="/life" element={<Life />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </Suspense>
