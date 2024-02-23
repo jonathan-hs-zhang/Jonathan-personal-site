@@ -71,7 +71,7 @@ describe('renders the app', () => {
   });
 
   it('can navigate to /life', async () => {
-    expect.assertions(2);
+    expect.assertions(3);
     const contactLink = document.querySelector('#header > nav > ul > li:nth-child(3) > a');
     expect(contactLink).toBeInTheDocument();
     await act(async () => {
