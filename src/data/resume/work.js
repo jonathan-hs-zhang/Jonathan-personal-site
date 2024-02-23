@@ -81,7 +81,7 @@ const work = [
   },
   {
     name: 'Quantum Algorithm Implementation',
-    position: 'ML Engineering Contractor',
+    position: 'ML Engineering Contractr',
     url: 'http://enveritas.org',
     startDate: '2016-09-01',
     endDate: '2018-01-01',
