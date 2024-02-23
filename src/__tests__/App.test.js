@@ -77,7 +77,7 @@ describe('renders the app', () => {
     await act(async () => {
       await contactLink.click();
     });
-    expect(document.title).toContain('Life |');
+    expect(document.title).toContain('Life updates|');
     expect(window.location.pathname).toBe('/life');
   });
 
