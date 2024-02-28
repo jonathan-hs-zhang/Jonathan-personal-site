@@ -33,6 +33,7 @@ const Resume = () => (
         <div className="title">
           <h2><Link to="resume">Resume</Link></h2>
           <div className="link-container">
+            <p>You can click on each title for more details. </p>
             {Object.keys(sections).map((sec) => (
               <h4 key={sec}>
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>

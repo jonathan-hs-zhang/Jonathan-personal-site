@@ -67,11 +67,7 @@ const work = [
     url: 'https://youtu.be/--zV-EIfd0Y',
     startDate: '2022-01-01',
     endDate: '2022-05-01',
-    summary: `Arthena is a Series A Company funded by <a href="https://www.anthemis.com/">Athemis</a>,
-    <a href="https://foundationcapital.com">Foundation Capital</a>, and <a href="https://ycombinator.com/">YC</a>.
-    We develop quantitative strategies to predict the value of fine art and build investment products.
-    I ran a 20-person product and engineering org for 8 years. We were acquired by
-    <a href="https://www.masterworks.com/">Masterworks</a> in 2023.`,
+    summary: ``,
     highlights: [
       'Designed a selective compliance assembly robot arm to locate and pick up objects.',
       'Utilized Solidwork to make the prototype of the robot arm and simulate the picking-up move using Matlab and SimulationX.',
