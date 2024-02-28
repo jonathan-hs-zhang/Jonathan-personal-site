@@ -33,7 +33,6 @@ const work = [
     name: '3D Mapping glasses prototype',
     position: 'Hardware Team Developer',
     url: 'https://youtu.be/S8IF_UF8q8E',
-    image: '/images/projects/harvest.jpg',
     startDate: '2022-09-01',
     endDate: '2023-04-30',
     summary: `A start-up company, <a href="https://www.seleste.co/">Seleste</a>, aims to verify the concept of utilizing a stereo camera for constructing a 3D mapping model to aid indoor navigation for the visually impaired via their product. 
@@ -48,7 +47,8 @@ const work = [
   {
     name: 'Retro Snake Arcade game',
     position: 'Developer',
-    url: '',
+    url: 'https://youtu.be/CVaYIhPWGNk',
+    jumpto: 'https://github.com/zhs126/RetroSnakeArcadeGame',
     startDate: '2023-01-01',
     endDate: '2023-04-30',
     summary: `Worked on a project involving the implementation of a hardware design on Quartus, 
@@ -65,9 +65,11 @@ const work = [
     name: 'SCARA Robot',
     position: 'Co-founder & C.T.O.',
     url: 'https://youtu.be/--zV-EIfd0Y',
+    jumpto: 'https://github.com/zhs126/SCARARobotArm',
     startDate: '2022-01-01',
     endDate: '2022-05-01',
-    summary: ``,
+    summary: `asv,
+    shdht`,
     highlights: [
       'Designed a selective compliance assembly robot arm to locate and pick up objects.',
       'Utilized Solidwork to make the prototype of the robot arm and simulate the picking-up move using Matlab and SimulationX.',

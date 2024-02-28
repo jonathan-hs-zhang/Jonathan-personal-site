@@ -15,7 +15,7 @@ const Job = ({
       <p className="daterange"> {dayjs(startDate).format('MMMM YYYY')} - {endDate ? dayjs(endDate).format('MMMM YYYY') : 'PRESENT'}</p>
     </header>
     {jumpto ? (
-      <h4><Link to={jumpto}>details page click here</Link></h4>
+      <h4><Link to={jumpto}>More details click here</Link></h4>
     ) : null}
     {summary ? (
       <Markdown
