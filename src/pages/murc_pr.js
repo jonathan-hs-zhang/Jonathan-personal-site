@@ -18,13 +18,13 @@ const murc = () => (
         <div className="description">
           <p> Kezi Li (on the right), a UBC PhD student, who mentored me this research.</p>
           <p><a href="https://www.linkedin.com/in/kezi-li/">His linkedin webpage</a></p>
-          <img src={`${process.env.PUBLIC_URL}${'/images/murc/kezi.pdf'}`} alt="1" />
+          <img className="img-responsive" src={`${process.env.PUBLIC_URL}${'/images/murc/kezi.pdf'}`} alt="1" />
           <p> Our design can be seen in the poster.</p>
           <p> Presented this poster at MURC finally on March 28, 2023. </p>
           <img src={`${process.env.PUBLIC_URL}${'/images/murc/poster.pdf'}`} alt="1" />
           <p> There are some pictures of me presenting at MURC. </p>
-          <img src={`${process.env.PUBLIC_URL}${'/images/murc/audience1.pdf'}`} alt="1" />
-          <img src={`${process.env.PUBLIC_URL}${'/images/murc/audience2.pdf'}`} alt="1" />
+          <img className="img-responsive" src={`${process.env.PUBLIC_URL}${'/images/murc/audience1.pdf'}`} alt="1" />
+          <img className="img-responsive" src={`${process.env.PUBLIC_URL}${'/images/murc/audience2.pdf'}`} alt="1" />
         </div>
       </div>
     </article>
