@@ -62,8 +62,25 @@ const work = [
     ],
   },
   {
+    name: 'DESIGN OF A MEMORY SYSTEM BASED ON M68K ON FPGA',
+    position: 'Developer',
+    url: 'https://zenysis.com',
+    startDate: '2023-01-01',
+    endDate: '2023-05-01',
+    summary: `Worked on a project involving the design and implementation of various memory controllers,
+     the development of an IIC (I2C), SPI Controller, EEPROM, and ADC system, 
+     and the creation of a user monitor program and debugging program. 
+     This project also involved the integration of an RTOS and Canbus Network Controller.`,
+    highlights: [
+      'Designed and implemented SRAM, DRAM, SPI Flash, and RAM controllers for efficient memory access and data storage.',
+      'Developed an IIC (I2C),SPI Controller, EEPROM, and ADC system to interface with external devices and sensors.',
+      'Created a user monitor program and debugging program, enhancing the functionality and usability of the memory system.',
+      'Integrated an RTOS and Canbus Network Controller to enable real-time communication and networking capabilities within the M68K system.',
+    ],
+  },
+  {
     name: 'SCARA Robot',
-    position: 'Co-founder & C.T.O.',
+    position: 'CAD Designer',
     url: 'https://youtu.be/--zV-EIfd0Y',
     jumpto: 'https://github.com/zhs126/SCARARobotArm',
     startDate: '2022-01-01',
@@ -78,48 +95,70 @@ const work = [
     ],
   },
   {
-    name: 'Quantum Algorithm Implementation',
-    position: 'ML Engineering Contractr',
+    name: 'Metal detector',
+    position: 'Developer',
     url: 'http://enveritas.org',
-    startDate: '2016-09-01',
-    endDate: '2018-01-01',
-    summary: `Enveritas is a non-profit that works with coffee farmers to improve their livelihoods.
-    I joined on day one and helped build a variety of tools to collect and analyze data. I also advised
-    on technical strategy, helped hire engineers, and advised on their YC application.`,
+    startDate: '2021-01-01',
+    endDate: '2021-05-01',
+    summary: `adbada
+    adasdasd`,
     highlights: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM\'s, and other techniques.',
+      'Assembled the control circuit on a bread board and wire-wound coil to build a metal detector prototype.',
+      'Embedded the microcontroller (STM32) using C for data processing, displaying, Timer Interrupt generating and pins connection.',
+      'Utilized the prototype to detect metal and distinguish the type based on inducted current received on the coil to determine the ferruginosity.',
     ],
   },
   {
     name: 'Quantum Algorithm Implementation',
-    position: 'Researcher and Developer',
+    position: 'Machine Learning Developer',
     url: 'http://enveritas.org',
-    startDate: '2016-09-01',
-    endDate: '2018-01-01',
-    summary: `Enveritas is a non-profit that works with coffee farmers to improve their livelihoods.
-    I joined on day one and helped build a variety of tools to collect and analyze data. I also advised
-    on technical strategy, helped hire engineers, and advised on their YC application.`,
+    startDate: '2023-01-01',
+    endDate: '2023-05-01',
+    summary: `abc
+    acbas`,
     highlights: [
-      'Trained a model for the Brazilian Coffee Scenes Dataset with better than state of the art accuracy.',
-      'Collected training sets on the ground in Uganda. Built dashboards to visualize work of surveyors using Flask, React, and D3.',
-      'Performed supporting analysis to ensure data integrity using Pandas, t-SNE, SVM\'s, and other techniques.',
+      'Employed Pennylane, a Python package, to implement Delegated variational quantum algorithms based on quantum homomorphic encryption, which is a new developed concept of data encryption and transmission based on quantum computing.',
+      'Trained a machine learning model that takes the MNIST dataset and detects the figure after quantum transformation and quantum transmission.',
     ],
   },
   {
     name: 'Bragg Grating Cavity Design',
     position: 'Designer',
     url: 'https://zenysis.com',
-    startDate: '2016-02-01',
-    endDate: '2016-03-01',
-    summary: `Zenysis develops data analysis and visualization tools for government agencies and international organizations.
-    Their solutions help improve decision-making by integrating and analyzing large-scale datasets from various sources.
-    I was the second contributor to the codebase. We built data visualization tools and tackled complex data ingestion
-    challenges for the Ethiopian Ministry of Health.`,
+    startDate: '2023-01-01',
+    endDate: '2023-05-01',
+    summary: `abc
+    adsad`,
     highlights: [
-      'Worked in Addis Ababa for the Ethiopian Ministry of Health and built data visualization tools in React and Flask.',
-      'Ingested multiple databases with different alphabets, calendars, and without official spellings of geographic locations.',
+      'Designed a 1310nm central wavelength Fabry-Perot cavity-based Bragg grating resonator using Klayout to maximize Q factor.',
+      'Simulated and analyzed the resonator’s performance by comparing the measurement of the printed fabrication in lab and simulation of running Lumerical MODE, FDTD and Interconnet.',
+    ],
+  },
+  {
+    name: 'Computer Architecture Improvements',
+    position: 'Software Developer',
+    url: 'https://zenysis.com',
+    startDate: '2022-09-01',
+    endDate: '2023-01-01',
+    summary: `abc
+    adsad`,
+    highlights: [
+      'Compared Modern cache replacement policies (BIP, DIP, Pseudo-tree) by C++ to find the optimized cache performance method.',
+      'Improved computer performance by Out-of-order execution Pipelining basing on Tomasulo’s Algorithm using C++.',
+      'Improved Branch Prediction accuracy by Correlated Saturation Counter using C++.',
+    ],
+  },
+  {
+    name: 'NAND3 Gate Level Cadence Design',
+    position: 'Designer',
+    url: 'https://zenysis.com',
+    startDate: '2023-01-01',
+    endDate: '2023-05-01',
+    summary: `abc
+    adsad`,
+    highlights: [
+      'Designed a schematic and built a MOSFET layout of a NAND3 gate on Cadence Virtuoso using Cadence45nm PDK.',
+      'Verified the design by comparing the calculation and the result (voltage, propagation delay) from the output waveforms of the FSM layout simulation on Cadence Virtuoso ADE and WV.',
     ],
   },
 ];

@@ -3,7 +3,7 @@ const data = [
   {
     title: '3D printer temperature controller presentation',
     subtitle: 'URO Research Fair',
-    image: '/images/murc/presentation.jpg',
+    image: '/images/murc/presentation.pdf',
     jumpto: '/murc_pr',
     date: '2023-03-18',
     desc:

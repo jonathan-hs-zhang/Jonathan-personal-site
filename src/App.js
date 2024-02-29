@@ -18,6 +18,7 @@ const Resume = lazy(() => import('./pages/Resume'));
 const Life = lazy(() => import('./pages/Life'));
 const Stats = lazy(() => import('./pages/Stats'));
 const MURC = lazy(() => import('./pages/murc_pr'));
+const Graduation = lazy(() => import('./pages/Graduation'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -30,6 +31,7 @@ const App = () => (
         <Route path="/resume" element={<Resume />} />
         <Route path="/murc_pr" element={<MURC />} />
         <Route path="/life" element={<Life />} />
+        <Route path="/graduation" element={<Graduation />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
     </Suspense>
