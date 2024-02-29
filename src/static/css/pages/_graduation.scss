@@ -1,0 +1,22 @@
+// Variables
+$image-width: 300px; // Adjust as needed
+$image-margin: 20px; // Adjust as needed
+
+// Mixin to set image styles
+@mixin image-styles {
+  width: $image-width;
+  margin: $image-margin;
+}
+
+// Graduation page styles
+.graduation {
+  // Ensure images are centered horizontally
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
+  // Apply styles to all images within the graduation page
+  img {
+    @include image-styles;
+  }
+}
