@@ -11,7 +11,7 @@ const murc = () => (
     <article className="post" id="murc">
       <header>
         <div className="title">
-          <h2><Link to="/murc_pr">3D printer temperature controller presentation</Link></h2>
+          <h2><Link to="/murc">3D printer temperature controller presentation</Link></h2>
         </div>
       </header>
       <div className="details">

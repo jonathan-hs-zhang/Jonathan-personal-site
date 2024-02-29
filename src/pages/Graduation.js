@@ -21,7 +21,9 @@ const graduation = () => (
           <p> Here is my program completion letter attached.</p>
           <img src={`${process.env.PUBLIC_URL}${'/images/program_completion_letter.pdf'}`} alt="1" />
           <p> Below is my ubc official transcript. </p>
-          <img src={`${process.env.PUBLIC_URL}${'/images/transcript.pdf'}`} alt="1" />
+          <img src={`${process.env.PUBLIC_URL}${'/images/transcript1.pdf'}`} alt="1" />
+          <img src={`${process.env.PUBLIC_URL}${'/images/transcript2.pdf'}`} alt="1" />
+          <img src={`${process.env.PUBLIC_URL}${'/images/transcript3.pdf'}`} alt="1" />
         </div>
       </div>
     </article>

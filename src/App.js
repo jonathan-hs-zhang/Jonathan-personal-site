@@ -29,7 +29,7 @@ const App = () => (
         <Route path="/stats" element={<Stats />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/resume" element={<Resume />} />
-        <Route path="/murc_pr" element={<MURC />} />
+        <Route path="/murc" element={<MURC />} />
         <Route path="/life" element={<Life />} />
         <Route path="/graduation" element={<Graduation />} />
         <Route path="*" element={<NotFound />} />

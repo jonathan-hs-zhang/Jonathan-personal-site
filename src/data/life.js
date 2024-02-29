@@ -4,7 +4,7 @@ const data = [
     title: '3D printer temperature controller presentation',
     subtitle: 'URO Research Fair',
     image: '/images/murc/presentation.pdf',
-    jumpto: '/murc_pr',
+    jumpto: '/murc',
     date: '2023-03-18',
     desc:
       'Built for a social impact hackathon. '
