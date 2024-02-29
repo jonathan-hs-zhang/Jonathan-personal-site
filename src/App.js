@@ -18,7 +18,7 @@ const Resume = lazy(() => import('./pages/Resume'));
 const Life = lazy(() => import('./pages/Life'));
 const Stats = lazy(() => import('./pages/Stats'));
 const MURC = lazy(() => import('./pages/murc'));
-const Graduation = lazy(() => import('./pages/Graduation'));
+const Graduation = lazy(() => import('./pages/graduation'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
