@@ -1,22 +1,22 @@
 # Intro
 
 
-Hi, I am Haosen Zhang(张皓森), aka Jonathan Zhang. I'm a 2023 graduate holding a Bachelor's degree in Electrical Engineering from the University of British Columbia. Currenly looking for posistions in FPGA, Firmware or hardware engineer. If you are interested about me or what I have done, feel free to contact me at zhanghaosen328@gmai.com.
+Hi, I'm Haosen Zhang (张皓森), also known as Jonathan Zhang. I'm a recent graduate, having obtained a Bachelor's degree in Electrical Engineering from the University of British Columbia in 2023. Currently, I am actively seeking positions in FPGA, Firmware, or hardware engineering. If you're interested in learning more about me or my experiences, please feel free to reach out to me at zhanghaosen328@gmail.com.
 # Some history
 
-- At November 26, 2001, I was born in [Shenyang, China](https://en.wikipedia.org/wiki/Shenyang), a beautiful province capital city in the north-east of China. 
+- On November 26, 2001, I was born in Shenyang, China, a beautiful provincial capital city in the northeast of China.
 
-- From childhood, I lived a normal live every kids did in China. Study, study and study. I learnt flute and accordion. Move around cities in China. I lived life in Shenyang, Haicheng and Dalian sequentailly. 
+- Throughout my childhood, I lived a typical life like any other child in China: focused on studying, exploring musical instruments like the flute and accordion, and relocating to different cities within China, including Shenyang, Haicheng, and Dalian.
 
-- At 14, I entered high school and things started to change, I started to become interested about psychology and read the whole text book about social psychology. 
+- At the age of 14, I entered high school, and my interests began to evolve. I developed a keen interest in psychology, even going as far as reading entire textbooks on social psychology.
 
-- At 16, I noticed that psychology can be self-learnt, which is not a ideal subject to learn in college, so I developed more interest in material engineering.
+- By 16, I realized that while psychology fascinated me, it wasn't necessarily an ideal subject to pursue in college. This realization led me to develop a stronger interest in material engineering.
 
-- At 17, I attended Chinese [Gaokao](https://en.wikipedia.org/wiki/Gaokao) and have an outstanding grade. At the same time, recieved UBC's offer, together with an outstanding internation student award, including 20000 dollars.
+- At 17, I took the Chinese Gaokao and achieved outstanding grades. Simultaneously, I received an offer from UBC, along with an exceptional international student award, including a $20,000 scholarship.
 
-- At 18, I chose electrical engineering as my direction and worked hard in univeristy.
+- Upon turning 18, I decided to pursue electrical engineering as my academic focus and dedicated myself to my studies at university.
 
-- At 21, I graduated from university and started to look for jobs till now.
+- At 21, I successfully graduated from university and began actively searching for employment opportunities, a journey that continues to this day.
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
@@ -30,22 +30,23 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # Travel / Geography
 
-- I've been to approximately 10 countries, many of which I would like to revisit.
-- More details can be seen in stats, titled cities visited.
+- I've had the opportunity to visit approximately 10 countries, many of which I'm eager to revisit.
+
+- Additional details about my travels can be found in the statistics section titled "Metropolis Visited."
 
 # Fun facts
 
-- I once wanted to try the life of Hobos, so I took 50 rmb (about 10 Canian dollars) and tried to live without any help.
-- I have been to more than 5 countries, even included Colombia, a gloablly identified dangerours country in South America.
-- I donot drink coffee, only tea. Coffee tastes so bad to me.
-- I can experience all playland facilities without any scream and fear.
+- I once embarked on an adventure to experience life as a hobo, setting out with only 50 RMB (roughly 10 Canadian dollars) to survive without any assistance.
+- Despite its reputation, I've ventured to more than 5 countries, including Colombia, which is globally recognized as a dangerous country in South America.
+- I'm not a fan of coffee; tea is my preferred beverage due to my distaste for the taste of coffee
+- I possess an unusual fearlessness, being able to experience all amusement park rides without a single scream or hint of fear.
 
 # I dream of
 
-- Inspiring and feeling inspired.
-- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
+- Inspiring and being inspired by others.
+- Contributing to a brighter future for everyone, irrespective of their political or socioeconomic background.
 - Treating every individual with genuine kindness and respect.
-- Staying curious.
-- Continually improving.
+- Nurturing a perpetual sense of curiosity.
+- Striving for continual self-improvement.
 
 
