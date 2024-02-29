@@ -1,21 +1,40 @@
-$image-width: 300px; // Adjust as needed
-$image-margin: 20px; // Adjust as needed
+// Global styles can go here if needed
 
-// Mixin to set image styles
-@mixin image-styles {
-  width: $image-width;
-  margin: $image-margin;
+// Define styles for the murc component
+#murc {
+  .details {
+    .description {
+      // Common styles for images
+      img {
+        margin: 1rem auto; // Default margin for images
+        max-width: 100%; // Ensure images don't exceed their container width
+        height: auto; // Maintain aspect ratio when scaling
+      }
+    }
+  }
 }
 
-// Graduation page styles
-.murc {
-  // Ensure images are centered horizontally
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  
-  // Apply styles to all images within the graduation page
-  img {
-    @include image-styles;
+// Media queries for different screen sizes
+@media screen and (max-width: 767px) {
+  #murc {
+    .details {
+      .description {
+        img {
+          margin: 0.5rem auto; // Adjusted margin for smaller screens
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #murc {
+    .details {
+      .description {
+        img {
+          margin: 1rem auto; // Default margin for larger screens
+        }
+      }
+    }
   }
 }
