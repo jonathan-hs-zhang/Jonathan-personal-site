@@ -17,7 +17,7 @@ const graduation = () => (
       <div className="details">
         <div className="description">
           <p> Got me degree on May 2023</p>
-          <img src={`${process.env.PUBLIC_URL}${'/images/degree.png'}`} alt="1" width="800" height="600" />
+          <img src={`${process.env.PUBLIC_URL}${'/images/degree.pdf'}`} alt="1" width="800" height="600" />
           <p> Here is my program completion letter attached.</p>
           <img src={`${process.env.PUBLIC_URL}${'/images/program_completion_letter.pdf'}`} alt="1" />
           <p> Below is my ubc official transcript. </p>
