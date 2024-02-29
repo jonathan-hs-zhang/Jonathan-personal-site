@@ -10,11 +10,9 @@
       }
     }
   }
-}
 
-// Media queries for different screen sizes
-@media screen and (max-width: 767px) {
-  #graduation {
+  // Media queries for different screen sizes
+  @media screen and (max-width: 767px) {
     .details {
       .description {
         img {
@@ -23,10 +21,8 @@
       }
     }
   }
-}
 
-@media screen and (min-width: 768px) {
-  #graduation {
+  @media screen and (min-width: 768px) {
     .details {
       .description {
         img {

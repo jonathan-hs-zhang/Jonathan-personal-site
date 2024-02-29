@@ -8,7 +8,7 @@ const graduation = () => (
     title="Graduation"
     description="info about graduation"
   >
-    <article className="post" id="Graduation ">
+    <article className="post" id="Graduation">
       <header>
         <div className="title">
           <h2><Link to="/graduation">All my graduation inforamtion </Link></h2>
@@ -19,9 +19,9 @@ const graduation = () => (
           <p> Got me degree on May 2023</p>
           <img src={`${process.env.PUBLIC_URL}${'/images/degree.pdf'}`} alt="1" />
           <p> Some photos taken with my best friends and in front of IKB library </p>
-          <img src={`${process.env.PUBLIC_URL}${'/images/grad1.pdf'}`} alt="1" />
-          <img src={`${process.env.PUBLIC_URL}${'/images/grad2.pdf'}`} alt="1" />
-          <img src={`${process.env.PUBLIC_URL}${'/images/grad3.pdf'}`} alt="1" />
+          <img src={`${process.env.PUBLIC_URL}${'/images/grad1.jpeg'}`} alt="1" />
+          <img src={`${process.env.PUBLIC_URL}${'/images/grad2.jpeg'}`} alt="1" />
+          <img src={`${process.env.PUBLIC_URL}${'/images/grad3.jpeg'}`} alt="1" />
           <p> Here is my program completion letter attached.</p>
           <img src={`${process.env.PUBLIC_URL}${'/images/program_completion_letter.pdf'}`} alt="1" />
           <p> Below is my ubc official transcript. </p>
