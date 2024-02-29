@@ -18,7 +18,7 @@ const work = [
     url: 'https://students.ubc.ca/career/events-workshops/multidisciplinary-undergraduate-research-conference',
     startDate: '2022-09-01',
     endDate: '2023-04-30',
-    jumpto: '/murc_pr',
+    jumpto: '/murc',
     summary: ` Kezi Li, a UBC PhD student, kezili@yahoo.com, supervised our research on improving 3D printer temperature control. 
     The team devised a direct feedforward model to expedite temperature setup, enhancing accuracy for subsequent feedback adjustments. 
     We validated their model using Simulink and presented their findings at the UBC Multidisciplinary Undergraduate Research Conference (MURC).`,
