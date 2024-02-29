@@ -25,8 +25,8 @@ const data = [
     value: <Age />,
   },
   {
-    key: 'Big cities visited',
-    label: 'Big cities visited',
+    key: 'Metropolis visited',
+    label: 'Metropolis visited',
     value: 59,
     link:
       'https://www.google.com/maps/d/embed?mid=1nfvx87iZdcmmsT4EX1MTMtezSZRzFw8&ehbc=2E312F',

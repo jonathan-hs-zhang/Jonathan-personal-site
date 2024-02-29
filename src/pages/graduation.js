@@ -16,13 +16,13 @@ const graduation = () => (
       </header>
       <div className="details">
         <div className="description">
-          <p> Got me degree on May 2023</p>
+          <p> Got me degree on May 2023. </p>
           <img src={`${process.env.PUBLIC_URL}${'/images/degree.pdf'}`} alt="1" />
-          <p> Some photos taken with my best friends and in front of IKB library </p>
+          <p> Some photos taken with my best friends and in front of IKB library. </p>
           <img src={`${process.env.PUBLIC_URL}${'/images/grad1.jpeg'}`} alt="1" />
           <img src={`${process.env.PUBLIC_URL}${'/images/grad2.jpeg'}`} alt="1" />
           <img src={`${process.env.PUBLIC_URL}${'/images/grad3.jpeg'}`} alt="1" />
-          <p> Here is my program completion letter attached.</p>
+          <p> Here is my program completion letter attached. </p>
           <img src={`${process.env.PUBLIC_URL}${'/images/program_completion_letter.pdf'}`} alt="1" />
           <p> Below is my ubc official transcript. </p>
           <img src={`${process.env.PUBLIC_URL}${'/images/transcript1.pdf'}`} alt="1" />
