@@ -85,8 +85,13 @@ const work = [
     jumpto: 'https://github.com/zhs126/SCARARobotArm',
     startDate: '2022-01-01',
     endDate: '2022-05-01',
-    summary: `asv,
-    shdht`,
+    summary: `This report highlights the electrical hardware system of a pick and place scara robot arm. 
+    The arm comprises of two joints that allow it to move its end effector anywhere in a 2D plane. 
+    The system is powered using a 480W 24V power supply. 
+    Custom H Bridge MOSFET Motor Drivers are designed to allow the robot to move its arms. 
+    A data acquisition board is developed that allows the robot to continuously monitor the position of the motors. 
+    Finally, all the boards are mounted on top of a motherboard that connects them together and to the microcontroller.
+    This paper is divided into eight sections. `,
     highlights: [
       'Designed a selective compliance assembly robot arm to locate and pick up objects.',
       'Utilized Solidwork to make the prototype of the robot arm and simulate the picking-up move using Matlab and SimulationX.',
